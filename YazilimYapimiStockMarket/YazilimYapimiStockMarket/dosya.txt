@@ -1,0 +1,1 @@
+omertan ---> tarih: 190621 Urun Ismi: buday Urun Fiyat: 5 Urun Miktari: 5

@@ -1,0 +1,3 @@
+﻿  YazilimYapimiStockMarket.cpp
+C:\Users\omert\source\repos\YazilimYapimiStockMarket\YazilimYapimiStockMarket\YazilimYapimiStockMarket.cpp(148,40): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  YazilimYapimiStockMarket.vcxproj -> C:\Users\omert\source\repos\YazilimYapimiStockMarket\x64\Debug\YazilimYapimiStockMarket.exe
